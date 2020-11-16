@@ -1,0 +1,20 @@
+@import "~antd/dist/antd.css";
+
+.App {
+  width: 830px;
+  height: 740px;
+  text-align: left;
+  border: 3px solid rgb(202, 10, 10);
+  padding: 3px;
+  margin: 3px;
+  border-radius: 10px;
+}
+/* Cart.cartParent {
+  width: 230px;
+  height: 550px;
+  text-align: left;
+  border: 3px solid rgb(200, 255, 0);
+  padding: 3px;
+  margin: 3px;
+  border-radius: 10px;
+} */

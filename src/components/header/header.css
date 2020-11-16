@@ -1,0 +1,10 @@
+.header {
+  width: 415px;
+  height: 40px;
+  text-align: left;
+  border: 3px solid rgb(6, 167, 59);
+  margin: 4px;
+  border-radius: 8px;
+  position: absolute;
+  left: 340px;
+}

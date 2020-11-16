@@ -1,0 +1,13 @@
+.products {
+  width: 410px;
+  height: 460px;
+  text-align: left;
+  border: 3px solid rgb(24, 3, 3);
+  padding: 3px;
+  padding-top: 5px;
+  margin: 3px;
+  margin-top: 60px;
+  border-radius: 10px;
+  position: absolute;
+  left: 340px;
+}
